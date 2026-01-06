@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">lotto oracle</string>
+    <string name="title_activity_main">lotto oracle</string>
+    <string name="package_name">com.lotto.oracle.app</string>
+    <string name="custom_url_scheme">com.lotto.oracle.app</string>
+</resources>

@@ -1,0 +1,5 @@
+lotto-oracle-testers@googlegroups.com
+lotto-oracle-service@lotto-oracle-app.iam.gserviceaccount.com
+
+
+
