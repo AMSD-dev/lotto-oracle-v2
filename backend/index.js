@@ -11,7 +11,7 @@ app.use(express.json());
 
 // ---- Google Auth ----
 const auth = new google.auth.GoogleAuth({
-  credentials: JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT),
+  keyFile: process.env.GOOGLE_APPLICATION_CREDENTIALS,
   scopes: ['https://www.googleapis.com/auth/androidpublisher'],
 });
 
